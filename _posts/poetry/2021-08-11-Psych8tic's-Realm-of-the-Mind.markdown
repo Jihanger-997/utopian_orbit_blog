@@ -5,7 +5,7 @@ date:   2021-08-11 22:46:08 +0300
 categories: poem
 author: Psych8tic
 permalink: "/:year/:month/:day/:categories/:title/"
-#permalink: "/:categories/:title"
+
 ---
 I cast you into my realm.
 
