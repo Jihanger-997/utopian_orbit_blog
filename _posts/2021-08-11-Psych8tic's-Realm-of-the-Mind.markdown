@@ -2,7 +2,7 @@
 layout: post
 title:  "Psych8tic's Realm of the Mind"
 date:   2021-08-11 22:46:08 +0300
-categories: poem
+categories: poetry
 author: Psych8tic
 permalink: "/:year/:month/:day/:categories/:title/"
 
