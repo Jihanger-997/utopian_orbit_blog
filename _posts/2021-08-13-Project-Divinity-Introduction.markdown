@@ -29,7 +29,7 @@ Sten is a rather complicated young adult that still acts like a child. On the go
 A laid back man that couldn't leave his nomad origin behind. He's always traveling and met many interesting people through his travels. He's a childhood friend of Sten - they grew up together at the Floating Temple. He acts as an older brother to Sten, but that never goes the way he wished it did. He's a powerful Spellblade that after an incident, promised to never use offensive magic ever again.
 
 <h4>Detail</h4>
-An Android from the future. She has no memories of her former life, but knows one thing: she has to follow the first person she encounters. She's friendly and appears to have no emotions to others, but deep down suffers with her memories and flashbacks.
+An Android from the future. She has no memories of her former life, but knows one thing: she has to follow the first person she encounters. She's friendly and appears to have no emotions to others, but deep down suffers with her flashbacks.
 
 <h4>Giacherion and Theodorus</h4>
 Find out yourself!

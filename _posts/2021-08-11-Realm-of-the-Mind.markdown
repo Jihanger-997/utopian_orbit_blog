@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Psych8tic's Realm of the Mind"
+title:  "Poetry: Realm of the Mind"
 date:   2021-08-11 22:46:08 +0300
 categories: poetry
 author: Psych8tic
@@ -66,3 +66,7 @@ Because in the end
 We know nothing
 
 You will see.
+
+<hr>
+>
+To the world - 29/12/2019
