@@ -67,6 +67,6 @@ We know nothing
 
 You will see.
 
-<hr>
+
 >
 To the world - 29/12/2019

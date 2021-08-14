@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Poetry: The Two of Us"
-date:   2021-08-13 13:17:08 +0300
+date:   2021-08-14 18:35:08 +0300
 categories: poetry
 author: Jihanger
 permalink: "/:year/:month/:day/:categories/:title/"
@@ -31,9 +31,9 @@ Or was it a trap like all who are around me believe?
 
 I'd rather believe in the former, it brings me a brief peace
 
-However, saddened I am with the needle I take every month, that seems to be in conflict with stated Elixir.
+However, saddened I am by the needle I take every month, that seems to be in conflict with stated Elixir.
 
-<hr>
+
 >
 To myself - 29/09/2019
 >
