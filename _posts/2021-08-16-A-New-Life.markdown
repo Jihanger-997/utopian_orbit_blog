@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Poetry: A New Life"
-date:   2021-08-13 20:55:08 +0300
+date:   2021-08-16 22:10:08 +0300
 categories: poetry
 author: Jihanger
 permalink: "/:year/:month/:day/:categories/:title/"
@@ -39,7 +39,7 @@ Reset.
 
 Not even if I tried explaining
 
-You will not understand
+You would understand
 
 Not even if you know you understand
 

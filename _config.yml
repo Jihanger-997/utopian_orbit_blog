@@ -37,6 +37,9 @@ plugins:
 #  - jekyll-remote-theme
 
 
+# Google Analytics
+#google_analytics: G-3YMZ1424D7
+
 defaults:
   -
     scope:
