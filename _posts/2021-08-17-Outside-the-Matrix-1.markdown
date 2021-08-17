@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Poetry: Outside the Matrix - Meeting Friends and Snakes"
-date:   2021-08-13 20:55:08 +0300
+date:   2021-08-17 21:07:08 +0300
 categories: poetry
 author: Jihanger
 permalink: "/:year/:month/:day/:categories/:title/"
