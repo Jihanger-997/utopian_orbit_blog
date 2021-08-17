@@ -90,7 +90,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-remote-theme
   jekyll-theme-minimal
-  minima (~> 2.5)
+  minima
   sdbm (~> 1.0)
   tzinfo (~> 1.2)
   tzinfo-data

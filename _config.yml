@@ -38,7 +38,7 @@ plugins:
 
 
 # Google Analytics
-#google_analytics: G-3YMZ1424D7
+google_analytics: G-3YMZ1424D7
 
 defaults:
   -
