@@ -44,7 +44,7 @@ The special TP abilities (Technique Points, which are regenerated when an action
 <hr>
 Sten is a powerful Battle Mage that needs to learn how to treat people better. He doesn't measure his words but is a good person nonetheless. His awakening is something expected and will be shown during the first part of the game, which will consist of four chapters.
 
-The link to the most recent alpha is located at the bottom of this [post]({% post_url 2021-08-13-Project-Divinity-Introduction %}) .
+The link to the most recent alpha is located at the bottom of this <a href="https://psych8tic.github.io/utopian_orbit_blog/2021/08/13/divinity/Project-Divinity-Introduction/">post</a> .
 
 Tell me what you think about the game so far on either my email or social media (located at the bottom of every page).
 
