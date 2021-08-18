@@ -3,6 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+
+<img src="{{ site.baseurl }}//assets/padigima.jpg">
+> Jihanger by Padigima
+
+<hr>
+
 Utopian Orbit is a dream I acquired in my early twenties - become a better person and help people realize the darkness within that can eventually destroy them if not managed.
 
 Hello, you can call me 'Jihanger', but I also go by the handle 'Psych8tic'. The number 8 is something that caught my attention during my delusions when I realized I had to create Utopian Orbit, if flipped sideways, it means infinity, and seen from a broader perspective, everything is infinite.
