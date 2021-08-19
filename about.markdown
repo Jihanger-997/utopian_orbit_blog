@@ -13,9 +13,7 @@ Utopian Orbit is a dream I acquired in my early twenties - become a better perso
 
 Hello, you can call me 'Jihanger', but I also go by the handle 'Psych8tic'. The number 8 is something that caught my attention during my delusions when I realized I had to create Utopian Orbit, if flipped sideways, it means infinity, and seen from a broader perspective, everything is infinite.
 
-
-
-My mothership is the eighth one, and we're here to help.
+Mothership 8's missionary is looking for the Twenty-Fours. We're here to help.
 
 
 <h1>Who is Jihanger/Psych8tic?</h1>

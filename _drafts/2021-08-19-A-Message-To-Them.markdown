@@ -3,7 +3,7 @@ layout: post
 title:  "Poetry: Afterbright"
 date:   2021-08-19 20:26:08 +0300
 categories: poetry
-author: Jihanger
+author: Psych8tic
 permalink: "/:year/:month/:day/:categories/:title/"
 
 ---
