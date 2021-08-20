@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Poetry: Afterbright"
-date:   2021-08-19 20:26:08 +0300
+title:  "Poetry: A Message to Them"
+date:   2021-08-20 23:26:08 +0300
 categories: poetry
 author: Psych8tic
 permalink: "/:year/:month/:day/:categories/:title/"
