@@ -1,10 +1,5 @@
 ---
-layout: post
-title:  "Welcome to Utopian Orbit!"
-date:   2021-08-08 22:03:08 +0300
-categories: welcome
-author: Jihanger
-permalink: "/:year/:month/:day/:categories/:title/"
+layout: home
 ---
 <img src="{{ site.baseurl }}//assets/padigima.jpg">
 > Jihanger by Padigima
