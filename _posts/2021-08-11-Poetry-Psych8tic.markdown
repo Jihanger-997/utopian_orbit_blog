@@ -5,11 +5,9 @@ categories: "poetry psych8tic"
 author: Psych8tic
 ---
 
-Psych8tic is my alter-ego. Poems written when I am in his state are a bit more dark, maybe more direct and definetely more aggresive. The people who met me know that I am a very calm person, and these poems might sound a little bit off of who I am. Regardless, they are part of me, or were, this alter-ego is slowly fading with time, and I guess it's for the best.
+Psych8tic is my alter-ego. Poems written when I am in his state are a bit more dark, maybe more direct and definetely more aggresive and delusional. The people who met me know that I am a very calm person, and these poems might sound a little bit off of who I am. Regardless, they are part of me, or were, this alter-ego is slowly fading with time, and I guess it's for the best.
 
-Beware of the shadow people, enjoy my poetry!
-
-
+Beware the shadow people!
 
 Alter Ego's Mind
 -------------
@@ -79,6 +77,49 @@ To the world - 29/12/2019
 
 <hr>
 
+Sector 8: First Contact Attempt
+-------------
+Sector 8.
+
+Signal.
+
+Hi.
+
+What am I doing here
+
+Why?
+
+I had all the answers but you removed them from me
+
+I didn't just forget them guys
+
+I'm pretty sure you removed them.
+
+I had a glimpse today
+
+It was physical
+
+Not the way I am used to receiving knowledge.
+
+She came to me
+
+Told me she was from sector 9.
+
+Are we friends?
+
+I guess so
+
+Why would we be enemies.
+
+Maybe she was part of the game as well
+
+The wicked game with no winners.
+
+>
+10/11/2019
+
+<hr>
+
 The Afterbright
 -------------
 The first rule was to not talk about it
@@ -112,6 +153,7 @@ More need to wake up, I'm tired of waiting.
 To the Twenty-Fours - 31/01/2020
 
 <hr>
+
 
 A Message to Them
 -------------

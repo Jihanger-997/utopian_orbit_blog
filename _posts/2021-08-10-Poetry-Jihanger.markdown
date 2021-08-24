@@ -44,6 +44,28 @@ My first poem
 
 <hr>
 
+Realizations
+-------------
+They tried to kill me
+
+But I did not know I had such strength.
+
+Maybe even they were blinded
+
+The ego is/was so big that it disabled them from seeing within this reality.
+
+I write with hatred
+
+But this is not what my soul wants
+
+I will definetely notice a way of accepting such realization.
+
+He never fails.
+
+>To all the trauma sources - 30/09/2019
+
+<hr>
+
 A New Life
 -------------
 One
