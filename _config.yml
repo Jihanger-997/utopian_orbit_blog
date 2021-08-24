@@ -4,8 +4,7 @@ longtitle:        Utopian Orbit
 author:           Jihanger
 email:            utopian.orbit@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Psychedelic poetry and game design. A trip of the unseen,
-  for the Children With No Name.
+  Psychedelic poetry and game design.
 
 version:          1.0
 gitbook_version:  3.2.3
@@ -38,6 +37,10 @@ permalink:        /:categories/:year-:month-:day-:title:output_ext
 
 exclude:
   - _drafts
+
+
+# Google Analytics
+google_analytics: G-3YMZ1424D7
 
 destination:      ./_site
 incremental:      false
