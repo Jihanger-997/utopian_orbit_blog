@@ -20,7 +20,7 @@ I'm looking for the other 23. I'm 8.
 
 Who is Jihanger/Psych8tic?
 -------------
-I'm a computer science student, and I live in a rather complicated country, but hey, people got it worse right? Right? I'm currently studying Java and Python, and I used to know C++, but I didn't practice it for like 5 years now. I entertain myself with games, music (the type that not a lot of people listen to), and I'd rather listen to audiobooks than reading them - my attention span has been a little bit off these days, with the pandemic and all that. Living inside myself has become something rather comfortable, after some tough years of development and bad situations (you'll find out with the poetry).
+I'm a computer science student, and I live in a rather complicated country, but hey, people got it worse, right? Right? I'm currently studying Java and Python, and I used to know C++, but I didn't practice it for like 5 years now. I entertain myself with games, music (the type that not a lot of people listen to), and I'd rather listen to audiobooks than reading them - my attention span has been a little bit off these days, with the pandemic and all that. Living inside myself has become something rather comfortable, after some tough years of development and bad situations (you'll find out with the poetry).
 
 What will I post?
 -------------
