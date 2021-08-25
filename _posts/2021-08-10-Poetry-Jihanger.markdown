@@ -143,3 +143,29 @@ Not like I remember what they say anyway.
 
 >
 To myself - 05/03/2020
+
+
+<hr>
+
+
+
+Visitation
+-------------
+Today I dreamed with you.
+
+Son, wake up.
+
+Paralyzed
+
+And then I travel with you
+
+In an esoteric and also a literal sense.
+
+Thanks for the visit
+
+With that I know I'm on the right path.
+
+>
+To mom - 17/01/2020
+
+<hr>

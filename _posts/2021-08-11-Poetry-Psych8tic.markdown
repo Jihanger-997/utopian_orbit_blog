@@ -120,6 +120,97 @@ The wicked game with no winners.
 
 <hr>
 
+The End of The World
+-------------
+It's the end.
+
+I'm trying to prevent it as much as possible
+
+But is it the right thing to do?
+
+I see you all
+
+Familiar faces
+
+But you are me
+
+And I am you.
+
+What
+
+So it was true after all
+
+A transcended state
+
+Of what my brain can understand of what You are.
+
+Happiness
+
+But also drained
+
+I want to feel
+
+But I'm currently incapable.
+
+I felt too much at once
+
+Had to be brought down by them.
+
+They don't want us happy.
+
+They dont even know what they're doing
+
+Just following orders.
+
+If you're happy
+
+Endure as much as possible
+
+Be strong
+
+Because everything in this messed matrix is to bring us down.
+
+I'll be on my way home soon.
+
+>
+To the world - 21/11/2019
+
+<hr>
+
+A Most Needed Change
+-------------
+The world is changing
+
+Can't you see?
+
+The order that was installed
+
+Finally failing
+
+People are raging
+
+Governments are falling.
+
+Don't believe them.
+
+Open your eyes to your intuition
+
+Work alongside me in the subtle plane.
+
+Don't get me wrong
+
+Not everyone can fight.
+
+You should know by now
+
+Some can play with energy.
+
+>
+03/12/2019
+
+<hr>
+
+
 The Afterbright
 -------------
 The first rule was to not talk about it
