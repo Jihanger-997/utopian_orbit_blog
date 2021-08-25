@@ -1,27 +1,34 @@
 ---
 layout: home
 ---
-<img src="{{ site.baseurl }}//assets/padigima.jpg">
-> Jihanger by Padigima
+Utopian Orbit - A Place for Emotions
+
+by Jihanger
+
+Nothing in this world is hidden, you only need different perspectives.
+
+All are welcome.
 
 <hr>
 
-Utopian Orbit is a dream I acquired in my early twenties - become a better person and help people realize the darkness within that can eventually destroy them if not managed.
+<h2>Guest Writers (coming soon)</h2>
 
-Hello, you can call me 'Jihanger', but I also go by the handle 'Psych8tic'. The number 8 is something that caught my attention during my delusions when I realized I had to create Utopian Orbit, if flipped sideways, it means infinity, and seen from a broader perspective, everything is infinite.
+Marylin Moon, the human;
 
-Mothership 8's missionary is looking for the Twenty-Fours. We're here to help.
+M., also human;
+
+Yago Brasil, the fluteman;
+
+75beatsperminute, the angel.
 
 
-Who is Jihanger/Psych8tic?
--------------
-I'm a computer science student, and I live in a rather complicated country, but hey, people got it worse right? Right? I'm currently studying Java and Python, and I used to know C++, but I didn't practice it for like 5 years now. I entertain myself with games, music (the type that not a lot of people listen to), and I'd rather listen to audiobooks than reading them - my attention span has been a little bit off these days, with the pandemic and all that. Living inside myself has become something rather comfortable, after some tough years of development and bad situations (you'll find out with the poetry).
 
-What will I post?
--------------
-Poetry and game design, these will be the topics of this blog. They are also my passion today (I'm also learning music production). That's what I decided so far to share with all of you here, might add some more stuff later on. I'm not a great writer, specially because my native language is not English, but I'll try my best to keep my posts interesting to the eye and the mind.
-
-About my poetry. I like to call it 'Psychedelic Poetry'. They are words that come from the deepest places of the mind, and is not meant to be understood but rather felt. Empathy is hard to understand until you acquire the knowledge. I write not because I want fame (though it would be nice), but rather to eternalize my delusional thoughts in words, that is, outside of my mind. Since I had my delusional phase, around the beggining of 2018, I tried to  find a way of self-healing, spiritual and ethical development. I found it through poetry, and developing games, I'm able to transmit my experiences through words/emotions and games/story telling.
-
-Enough with the basic stuff, hope you enjoy the trip, and stay weird!
 <hr>
+
+<h2>Contact us</h2>
+
+E-mail: <a href = "mailto: utopian.orbit@gmail.com">utopian.orbit@gmail.com</a>
+
+Twitter: <a href="https://twitter.com/UtopianOrbit">UtopianOrbit</a>
+
+Instagram: <a href="https://www.instagram.com/jihanger.et/">jihanger.et</a>

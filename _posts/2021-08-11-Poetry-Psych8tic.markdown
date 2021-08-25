@@ -246,6 +246,40 @@ To the Twenty-Fours - 31/01/2020
 <hr>
 
 
+So was him
+
+Exposed too early
+
+all did it,
+
+Well, he must do it too.
+
+such an innocent child
+
+Losing his innocence in that building.
+
+Have you ever been addicted to what they teach you?
+
+The lust of the flesh took control of him.
+
+He has already hurt others with his actions.
+
+Left
+
+Simplified
+
+Delusional.
+
+Disgusted by his past
+
+And today he seeks the world upside down.
+
+>
+To Jihanger - 09/02/2020
+
+<hr>
+
+
 A Message to Them
 -------------
 Come my 'dear' ones
@@ -272,3 +306,9 @@ I have means for that.
 To my dear Scourge - 14/02/2020
 
 <hr>
+
+
+Sector 8: Dream Much Translucent
+-------------
+Sector 8.
+My ego seems to be getting worse by time and the 'dream much translucent' is calling me. Until I'm able to reach you again, please, bring me peace so I can bear this fake reality we are all set in. I'm doubting my own sanity by sending you signals through this platform. What will people think? Would they even understand what I mean?

@@ -66,6 +66,48 @@ He never fails.
 
 <hr>
 
+
+Apologies
+-------------
+I'm sorry
+
+But know that I don't regret everything
+
+It was all necessary so that today we can be friends.
+
+Living in different worlds
+
+But I know there are similarities beyond what my mind blocks.
+
+I forget that the two of us though really suspicious of people
+
+We are always friendly at first sight.
+
+>
+To dad - 05/10/2019
+
+<hr>
+
+
+Intrusive Thoughts
+-------------
+Why are these thoughts still here?
+
+It's been so long since you happened
+
+I'm not even the same anymore
+
+Completely transformed
+
+And you are to praise
+
+That vacation.
+
+>
+19/11/2019
+
+<hr>
+
 A New Life
 -------------
 One
@@ -113,6 +155,29 @@ To myself and the first voice - 12/12/2019
 
 <hr>
 
+
+Visitation
+-------------
+Today I dreamed with you.
+
+Son, wake up.
+
+Paralyzed
+
+And then I travel with you
+
+In an esoteric and also a literal sense.
+
+Thanks for the visit
+
+With that I know I'm on the right path.
+
+>
+To mom - 17/01/2020
+
+<hr>
+
+
 Should I
 -------------
 It's calling me once again
@@ -144,28 +209,5 @@ Not like I remember what they say anyway.
 >
 To myself - 05/03/2020
 
-
-<hr>
-
-
-
-Visitation
--------------
-Today I dreamed with you.
-
-Son, wake up.
-
-Paralyzed
-
-And then I travel with you
-
-In an esoteric and also a literal sense.
-
-Thanks for the visit
-
-With that I know I'm on the right path.
-
->
-To mom - 17/01/2020
 
 <hr>
