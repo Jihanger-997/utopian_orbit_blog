@@ -15,7 +15,7 @@ Utopian Orbit is a dream I acquired in my early twenties - become a better perso
 
 Hello, you can call me 'Jihanger', but I also go by the handle 'Psych8tic'. The number 8 is something that caught my attention during my delusions when I realized I had to create Utopian Orbit, if flipped sideways, it means infinity, and seen from a broader perspective, everything is infinite.
 
-Mothership 8's missionary is looking for the Twenty-Fours. We're here to help.
+I'm looking for the other 23. I'm 8.
 
 
 Who is Jihanger/Psych8tic?
@@ -28,5 +28,11 @@ Poetry and game design, these will be the topics of this blog. They are also my 
 
 About my poetry. I like to call it 'Psychedelic Poetry'. They are words that come from the deepest places of the mind, and is not meant to be understood but rather felt. Empathy is hard to understand until you acquire the knowledge. I write not because I want fame (though it would be nice), but rather to eternalize my delusional thoughts in words, that is, outside of my mind. Since I had my delusional phase, around the beggining of 2018, I tried to  find a way of self-healing, spiritual and ethical development. I found it through poetry, and developing games, I'm able to transmit my experiences through words/emotions and games/story telling.
 
-Enough with the basic stuff, hope you enjoy the trip, and stay weird!
+
+Guest Writers
+------------
+There will be other writers in this blog, and each will have their own section to publish their texts. These people are dear to me, and some sort of intense connection occured for them to appear here. Open about their own emotions, I assume they share, or once shared the same dream I have.
+
+
+Enough with the basic stuff, hope you enjoy our content, and be yourself!
 <hr>
