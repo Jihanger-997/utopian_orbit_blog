@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Poetry: Jihanger"
-categories: "poetry jihanger"
+categories: "poetry"
 author: Jihanger
 ---
 

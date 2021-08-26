@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Poetry: Psych8tic"
-categories: "poetry psych8tic"
+categories: "poetry"
 author: Psych8tic
 ---
 
@@ -312,3 +312,6 @@ Sector 8: Dream Much Translucent
 -------------
 Sector 8.
 My ego seems to be getting worse by time and the 'dream much translucent' is calling me. Until I'm able to reach you again, please, bring me peace so I can bear this fake reality we are all set in. I'm doubting my own sanity by sending you signals through this platform. What will people think? Would they even understand what I mean?
+
+>
+23/02/2020

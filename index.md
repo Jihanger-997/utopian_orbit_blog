@@ -5,7 +5,7 @@ Utopian Orbit - A Place for Emotions
 
 by Jihanger
 
-Nothing in this world is hidden, you only need different perspectives.
+I planted love, reaped peace.
 
 All are welcome.
 

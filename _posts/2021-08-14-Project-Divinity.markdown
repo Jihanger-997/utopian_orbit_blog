@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Project Divinity"
-date:   2021-08-13 10:09:08 +0300
+date:   2021-08-14 10:09:08 +0300
 categories: divinity
 author: Jihanger
 permalink: "/:year/:month/:day/:categories/:title/"
