@@ -13,13 +13,13 @@ All are welcome.
 
 <h2>Guest Writers (coming soon)</h2>
 
-Marylin Moon, the human;
+Marilyn Moon;
 
-M., also human;
+M.;
 
-Yago Brasil, the fluteman;
+Yago Brasil;
 
-75beatsperminute, the angel.
+75beatsperminute;
 
 
 
