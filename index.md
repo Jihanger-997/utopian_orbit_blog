@@ -1,6 +1,9 @@
 ---
 layout: home
 ---
+>
+If you're on mobile, you can click the horizontal lines on the top of the page to navigate through each section of the blog. You can also change the color theme by clicking on the letter "A". There's a background music you can listen to while enjoying the blog, though on mobile it will stop everytime you change sections.
+
 Utopian Orbit - A Place for Emotions
 
 by Jihanger

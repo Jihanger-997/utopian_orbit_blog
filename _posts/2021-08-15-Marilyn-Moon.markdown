@@ -22,6 +22,6 @@ In my family when I was a teenager we were very poor, choosing what to eat was a
 
 We lived on my grandmother's land, which was shared with two other houses besides ours, my aunt's with my grandmother, her young son and her newest husband and the other house of my bachelor uncle.
 
-My aunt had a financial condition slightly better than us, she always bought meat, pizzas, desserts and beverages for her son and offered it to us a few times. My grandma sometimes "stole" crackers and instant noodles and gave them to us. Her noodles was the best, she used to break the noodles, tradition that I still keep even after your death.
+My aunt had a financial condition slightly better than us, she always bought meat, pizzas, desserts and beverages for her son and offered it to us a few times. My grandma sometimes "stole" crackers and instant noodles and gave them to us. Her noodles was the best, she used to break the noodles, tradition that I still keep even after her death.
 
 I spent most of my teenage years eating eggs and sausages. I hated sausages, because it was just what I ate for the most part of my life but still gives me comfort, just like the noodles but now without cruelty because as times changes, traditions change too.

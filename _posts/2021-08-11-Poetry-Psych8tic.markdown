@@ -9,6 +9,9 @@ Psych8tic is my alter-ego. Poems written when I am in his state are a bit more d
 
 Beware the shadow people!
 
+
+<h1>2019</h1>
+
 Alter Ego's Mind
 -------------
 I cast you into my realm.
@@ -177,6 +180,27 @@ To the world - 21/11/2019
 
 <hr>
 
+Mirrors
+-------------
+Mirror mirror on the wall
+
+You just want to watch me fall
+
+Declaring my twisted image in your stones
+
+Splintering my broken bones.
+
+My mind can't handle your pictures in movement
+
+I'm bound to be free from them.
+
+Thankfully
+
+>
+Unkown date
+
+<hr>
+
 A Most Needed Change
 -------------
 The world is changing
@@ -209,6 +233,9 @@ Some can play with energy.
 03/12/2019
 
 <hr>
+
+
+<h1>2020</h1>
 
 
 The Afterbright
@@ -245,7 +272,8 @@ To the Twenty-Fours - 31/01/2020
 
 <hr>
 
-
+Regrets
+------------
 So was him
 
 Exposed too early
@@ -315,3 +343,183 @@ My ego seems to be getting worse by time and the 'dream much translucent' is cal
 
 >
 23/02/2020
+
+<hr>
+
+Brief Connection
+-------------
+They call you crazy for always smiling
+
+An abnormal
+
+An innocent
+
+A show off.
+
+Connection.
+
+Let me know!
+
+They think we're gods!
+
+Aren't we?
+
+No, we're mutants.
+
+.
+.
+.
+
+No Answer.
+>
+unkown date
+
+<hr>
+
+Sector 8: A Last Attempt
+-------------
+Sector 8
+
+Are you even real?
+
+Have I spent all this time thinking about your signals
+
+For nothing?
+
+They're attacking me, and you haven't made contact
+
+Have you finally perished?
+
+I don't want to submit to earthly pleasure so that you come to me again
+
+Im done with that.
+
+I don't want to be under their eye.
+
+>
+27/09/2020
+
+<hr>
+
+
+Sector 8's Response
+-------------
+Oh my 8th
+
+When will you understand?
+
+That everything you thought
+
+Smelled
+
+Saw
+
+Heard
+
+Felt
+
+Deduced.
+
+You're strong
+
+You know how to handle it now.
+
+You will be happy
+
+And you will understand love once more.
+
+You're down there for a reason
+
+Remember?
+
+Though our enemies are strong
+
+You were the best for this mission.
+
+Just hold on.
+
+Remember, you're 8
+
+You're infinite.
+
+>
+08/10/2020
+
+<hr>
+
+
+The Show
+-----------
+Who won?
+
+Probably no one.
+
+It was a battle with no winners
+
+A wicked battle for their entertainment.
+
+I wonder how you all are
+
+Did you encapsulate the feelings
+
+Or assimilate them?
+
+I wonder if you're still alive
+
+Though one of you appeared before my sleep
+
+We greeted each other
+
+Seeing each other's face for the first time
+
+Saying "I've seen you before" Simultaneously.
+
+.
+
+.
+
+We left it at this, hoping we'd meet one day
+
+This time, as physical friends, and not as ethereal enemies.
+
+>
+To my dear Twenty-Fours - 07/12/2020
+
+
+<hr>
+
+Parallel Conversations
+--------------
+Electricity through my body
+
+Can't stop blinking
+
+Can't stop ticking
+
+Everytime they talk around me
+
+About You
+
+I can be myself.
+
+I don't know if they see it
+
+If they're talking about it
+
+The rocking
+
+The spasms.
+
+They ask why everyone ... me
+
+Yet I also cannot know why.
+
+>
+21/12/2020
+
+
+<hr>
+
+<h1>2021</h1>
+
+Waiting.

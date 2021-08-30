@@ -5,8 +5,10 @@ categories: "poetry"
 author: Jihanger
 ---
 
-Below you will find poetry written by me, as myself.
+Below you will find poetry written by me, as myself. Not much more to say.
 
+
+<h1>2019</h1>
 
 The Two of Us
 -------------
@@ -66,6 +68,24 @@ He never fails.
 
 <hr>
 
+The Cameras
+------------
+I want you to follow me
+
+But I'm not a prophet
+
+I've just seen things.
+
+I'm not perfect
+
+No one is.
+
+I know this is just the cameras and the demons.
+
+>
+Unkown date
+
+<hr>
 
 Apologies
 -------------
@@ -105,6 +125,21 @@ That vacation.
 
 >
 19/11/2019
+
+<hr>
+
+Survivor
+-------------
+I see sounds
+
+Nothing abnormal here,
+
+Just a child that partially survived.
+
+Re-reading the voices inside my own mind.
+
+>
+Unkown date
 
 <hr>
 
@@ -155,6 +190,38 @@ To myself and the first voice - 12/12/2019
 
 <hr>
 
+
+<h1>2020</h1>
+
+
+The Mushroom Whistler
+-------------
+Longing? (Saudade)
+
+I don't think so
+
+It's a confusing feeling
+
+Caused by the whistles of the mushrooms.
+
+They were such truthful moments
+
+I don't know what happened.
+
+Don't come and blame me,
+
+I don't blame you.
+
+Even knowing you don't read these words I keep the flame lit.
+
+Be Friends
+
+Like you promised.
+
+>
+To the love of a past life - Unkown Date
+
+<hr>
 
 Visitation
 -------------
@@ -211,3 +278,306 @@ To myself - 05/03/2020
 
 
 <hr>
+
+
+I Stil Dream About You (and still do)
+------------
+This virtual friendship of ours
+
+It doesn't even look like you cursed me last time we saw each other
+
+Now in dreams we meet
+
+And everything is fine.
+
+Apparently we forgave each other
+
+Is that what you meant by being friends?
+
+Psychedelic friendship on the subtle plane?
+
+Although that "hi" I heard
+
+I'm pretty sure it was you
+
+But I soon saw you in my confused mind
+
+Ignoring me.
+
+A year later I saw you in my room
+
+You sat on my bed beside me and still angry
+
+Hadn't abandoned me.
+
+Today I am with peace of mind
+
+And we laugh together in this tangle of thoughts when I sleep.
+
+>
+Unkwown Date
+
+<hr>
+
+
+For My first
+-------------
+I love you
+
+Forgive me
+
+I am really sorry
+
+I am grateful.
+
+I wish I could tell you in person
+
+But the only way I have left is this
+
+Materialize in text everything I feel
+
+And the Universe takes care of the rest.
+
+I love you with all my heart
+
+Forgive me for saddening you
+
+I'm sorry I wasn't there
+
+And I'm grateful for paving the way.
+
+Now I await the next journey.
+
+>
+Unkown Date
+
+<hr>
+
+The Saddest Day
+-------------
+And that was the day I realized
+
+That your day was coming.
+
+How could I accept that you,
+
+My dearest,
+
+Would not see my children
+
+Would not have dinner with my first salary
+
+Would not see my dreams come true
+
+.
+.
+.
+
+I couldn't hold my tears
+
+I ran into your arms.
+
+You didn't hold yours either.
+
+>
+To mom, about my highschool graduation - 14/10/2020
+
+
+<hr>
+
+Bad Habits
+------------
+You came as a friend
+
+One that would bring me joy.
+
+The first times we were together
+
+It was pure bliss.
+
+I felt completed.
+
+But you disgraced my temple.
+
+.
+
+Now I see you everyday all day
+
+I can't follow my dreams with you blocking the road.
+
+.
+
+I will leave you
+
+I know I will
+
+But you are so tempting
+
+So seductive.
+
+You give me what I want
+
+But not what I need
+
+And I give you everything
+
+My brain
+
+My heart
+
+My lungs
+
+My life.
+
+Wish you could just leave
+
+But it's not as easy as I thought the first time we kissed.
+
+You polluted me.
+
+Body and soul.
+
+>
+To my worst addiction - 11/11/2020
+
+<hr>
+
+Regrets
+------------
+All I wanted was to see you smile.
+
+Though you wanted to
+
+You couldn't,
+
+My smile also wasn't real
+
+Intoxicated.
+
+Always.
+
+How could I smile
+
+When my mind still believed I was corrupt.
+
+The pureness of a child's soul taken away by his lust.
+
+And this reflected on all of you
+
+I just wish you didn't have those same feelings
+
+From when I was asleep.
+
+They will corrupt you.
+
+They will reflect on others.
+
+Conquer
+
+Assimilate
+
+Release.
+
+Either that
+
+Or suffer with the corruption
+
+Until you are able to see light again.
+
+>
+To the people of my adolescense- 31/12/2020
+
+<hr>
+
+
+<h1>2021</h1>
+
+Parallel Life
+-------------
+Feels like the game I was in is still going,
+
+Only now I'm in spectator mode.
+
+Waiting for the controller,
+
+And be player one
+
+Once again.
+
+>
+14/03/2021
+
+<hr>
+
+Conversations With a Lover from a Past Life
+-------------
+I see we're right on the other side.
+
+Much more than that, connected.
+
+Why don't we talk here then?
+
+I don't think it's necessary.
+
+You were perfect, at least in my eyes.
+
+Nobody is perfect, thank you for seeing me like this, I didn't know how to recognize the love you had for me.
+
+We were so young, weren't we?
+
+I don't blame you for anything, not anymore.
+
+I went through conflicts, and with that I hurt your heart, go ahead for love, you have my permission.
+
+Thank you. It's a foolishness of yours to close yourself and no one else love, we were a story, just forgive yourself.
+
+Gratitude for the weights you released from my heart, now I see that I guarded myself out of fear, I will move forward and allow myself new chances.
+
+.
+
+It is written, we will do our best to not commit the same again.
+
+>
+28/04/2021
+
+<hr>
+
+The Seed
+-------------
+I've seen you grow,
+
+But there's still a long way to go.
+
+Both you and I have been through similar
+
+But nothing will ever destroy our light.
+
+The seed that was planted in us,
+
+Is not what they say and think it is.
+
+Let it grow.
+
+>
+To my sister - 14/07/2021
+
+<hr>
+
+Art
+-------------
+How can one person feel another
+
+Even before this one was born.
+
+Long live the art
+
+The art of living in the now
+
+And the art of understanding that there is life beyond life
+
+And manage to hide the message
+
+So you can rest in peace.
+
+>
+23/07/2021
