@@ -14,7 +14,7 @@ An Introduction and State
 
 Project Divinity, that's what it is called for now, is an RPG game I'm developing with the help of friends. It's going to be divided into two parts, the first is being made on RPG Maker VX Ace, and the second will be made on RPG Maker MV. I've wanted to create a game on RPG Maker since my early teens, and as a teen I never had the artistic inspiration to finish any project. My first game was a big bash of games I've played throughout my childhood (Tibia, Grand Chase, Naruto, Dragonball, and many more), but I never managed to get past the first 5 minutes of gameplay development.
 
-<h1>The Story</h1>
+<h4>The Story</h4>
 <hr>
 
 The story takes place in the medieval and fantasy plane of Artimeshia, where humans lived in peace with the ancient races, until the Order of the Paladins came to existence and wiped them off so they could acquire the Silverite they guarded so dearly. The humans that were never interested in the Silverite, waged war on the Order, and now Artimeshia is divided into East and West. The East, the former allies of the ancient races, consist of the Northern people (fishermen and hunters of the icy north), and the Yafarians (desert nomad people, also the Sages of the Floating Temple).
@@ -55,11 +55,14 @@ You can play the alpha version, but as stated above, the combat is not yet balan
 <hr>
 <hr>
 
+
 Sten Al-Hukim
 -------------
+<img src="{{ site.baseurl }}//assets/sten.png">
+
 Every character I write in Project Divinity is based on people I've met, and sometimes, a mix of both that and myself. Sten is no exception. He's a bash of what I used to wish my life could've been, and is heavily inspired on what would have been of me if I didn't have my delusional phase. He's the character you follow during your time in Artimeshia, with the exception of the chapter where you will follow Detail's brief lonely adventure (I will talk about Detail in another post).
 
-<h1>Sten's Path</h1>
+<h4>Sten's Path</h4>
 <hr>
 Sten will have the chance to prove to others, and specifically Detail, that he's a person who wants to evolve to be a better person. Much of this will be influenced by the fact that he is the Divine Child of the Eastern Prophecy, which he neglects everytime somebody mentions it. Yes, everyone is aware of the fact he is this Child, including Sten. He hates that he is treated in a special manner by everyone that knows this, but doesn't do them wrong (most of the time).
 
@@ -67,13 +70,13 @@ During chapter 1 through 3, Sten has empath moments towards Detail, but those ar
 
 His relationship with Marcus has always been the same. Sten is lousy while Marcus is the complete opposite: someone who measures his words carefully (there will be a post about Marcus in the future as well). Sten's uncontrolled emotions are sometimes used against him by Marcus so that he does what he wants, but Sten is so engulfed by his own emotions that hes doesn't notice that. Will this also make their relation go to the abysm?
 
-<h1>Sten's Abilites</h1>
+<h4>Sten's Abilites</h4>
 <hr>
 Sten is naturally a skilled fighter. This added up to the fact that he is a Spellblade makes him a force to be reckoned with. The Paladins of the Order are aware he is the Divine Child, but know that he has still not awakened his powers to the full extent. They know the people around him are trying to make him transcend, and recently have begun making moves to avoid that.
 
 He can control Wind, Fire, and Lightning, in addition to Ice to some extent. He can imbue his weapon with elemental power, making his attacks more powerful and acquiring special offensive(maybe one will have a defensive) attributes that have a chance to trigger. Depending on the level of the enchantment he uses, it has a higher chance to trigger. He can also cast single and multi-targetted elemental spells, and use offensive/defensive support spells, that are either cast directly on enemies, allies , or on his weapon.
 
-<h1>Tips and Tricks</h1>
+<h4>Tips and Tricks</h4>
 <hr>
 Sten is the only playable character able to enchant his weapon, and this should always be used. The special effects they can cause on the enemy and allies are powerful and useful.
 
@@ -87,7 +90,7 @@ Elemental spells (Fire, Wind, and Bolt) should be used according to the elementa
 
 The special TP abilities (Technique Points, which are regenerated when an action is taken during battle), are still being developed and will have many uses. There's even two TP Weapon Enchantments, that could be considered Ultimates!
 
-<h1>Conclusion</h1>
+<h4>Conclusion</h4>
 <hr>
 Sten is a powerful Battle Mage that needs to learn how to treat people better. He doesn't measure his words but is a good person nonetheless. His awakening is something expected and will be shown during the first part of the game, which will consist of four chapters.
 
@@ -98,23 +101,25 @@ Sten is a powerful Battle Mage that needs to learn how to treat people better. H
 
 Marcus the Sage-Nomad
 -------------
+<img src="{{ site.baseurl }}//assets/marcus.png">
+
 Every character I write in Project Divinity is based on people I've met, and sometimes, a mix of both that and myself. Marcus is a rather complicated one to write about, he's inspired by a group of people, from a specific "tribe", that hurt me deeply. No matter what happened during this interaction with "real life" Marcus, I am grateful for meeting them. They taught me a lot.
 
-<h1>Marcus' Past and Present</h1>
+<h4>Marcus' Past and Present</h4>
 <hr>
 Marcus is the childhood friend of Sten and later became an older brother figure to him. Unlike Sten, he finished his training in the Floating Temple, and after that, began traveling Artimeshia. During this nomadic time, something happened that made him not use his abilites and powers offensively ever again. He never told anyone what the event was, and learned to transform his elemental affinity into Geion's energy: the Creator of the Cosmos' healing aspect.
 
 Marcus also learned to play instruments, a bard of some sort. Through the different sounds and rhythms he creates with musical instruments, he can channel Geion's healing aspect. He's always playing his string instrument, mostly during his free time and on long walks.
 
 
-<h1>Marcus' Abilities</h1>
+<h4>Marcus' Abilities</h4>
 <hr>
 Marcus is not only a Spellblade, but also a Sage, a title acquired by those that finish their training in the Floating Temple. However, as mentioned before, he does not use elemental abilites anymore, and rather uses Geion's healing energy to cure and inspire people.
 
 Through music and rhythm, he can heal, cure ailments, and inspire/revive allies.
 
 
-<h1>Tips and Tricks</h1>
+<h4>Tips and Tricks</h4>
 <hr>
 Marcus is a support, and should be used as one, his offensive power is limited. His healing focuses on regenerating health, and removing status ailments, such as poison and paralysis.
 
@@ -130,7 +135,7 @@ The TP abilites (Technical Points, which regenerate every time an action is take
 
 Never leave TP stocked, always use it! TP abilites are powerful and useful for the party.
 
-<h1>Conclusion</h1>
+<h4>Conclusion</h4>
 <hr>
 Marcus has proven to be the hardest character for me to design, you can notice that by seeing how small his post is compared to Sten's. Nothing is impossible nonetheless, I'm trying my best to NOT make him into my perfect idealization of what a human being should be, as no one is perfect.
 
@@ -141,20 +146,22 @@ Marcus has proven to be the hardest character for me to design, you can notice t
 
 Detail, the Android Lost in Time
 -------------
+<img src="{{ site.baseurl }}//assets/detail.png">
+
 Every character I write in Project Divinity is based on people I've met, and sometimes, a mix of both that and myself. Detail is the exception. She is the raw aspect of what people think and thought about me, along with the struggles I went through. She is the character I care about the most, and let us agree that Detail is a dope name for an Android. She is the incarnation of my mental struggles, and will portray my delusions.
 
 
-<h1>Detail's Mission</h1>
+<h4>Detail's Mission</h4>
 <hr>
 Detail has no clue on why she was sent back to the past, she is only following her program: to follow the first person she sees. It turned out to be Sten, and their relationship will unfold results in Artimeshia as a whole. Quiet she stays, unless something needs correction or details added (pun intended). You will notice that, with the unfolding of the story, she gets more talkative and seems to have more emotions, emotions that she is not even sure if are hers - she keeps having flashbacks about her father from the future, before she was sent to the past. A flashback from the future, how does that work?
 
-I don't want to talk much about Detail, it would spoil a lot of the story. She is cored to what will happen in the story.
+I don't want to talk much about Detail, it would spoil a lot of the story. She is cored to what will happen in the story. One thing can be said though, there will be a turnpoint in Detail's life, and you will play with her alone for a whole chapter.
 
-<h1>Detail's Abilities</h1>
+<h4>Detail's Abilities</h4>
 <hr>
 Detail is an android equipped with what will probably be blasters, for now I'm using pistols as a substitute. She is the damage dealer of the party, and can pack a punch. She is purely based on Techical Points (TP), and has no mana to use. This means you will have to charge her up every battle in order to use her abilites. Detail is equipped with syringes that can debilitate and poison enemies, during the tests they were proven to be pretty useful, and her ultimate ability will deal an absurd amount of damage to three random enemies (or maybe all enemies, still balancing that).
 
-<h1>Tips and Tricks</h1>
+<h4>Tips and Tricks</h4>
 <hr>
 Just yolo on the damage output, and if needed, increase her agility so she can avoid attacks.
 
