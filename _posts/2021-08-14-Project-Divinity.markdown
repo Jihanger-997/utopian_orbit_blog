@@ -135,8 +135,9 @@ Never leave TP stocked, always use it! TP abilites are powerful and useful for t
 Marcus has proven to be the hardest character for me to design, you can notice that by seeing how small his post is compared to Sten's. Nothing is impossible nonetheless, I'm trying my best to NOT make him into my perfect idealization of what a human being should be, as no one is perfect.
 
 
-
-
+<hr>
+<hr>
+<hr>
 
 Detail, the Android Lost in Time
 -------------
