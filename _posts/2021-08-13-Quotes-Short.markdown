@@ -7,17 +7,8 @@ author: Jihanger
 permalink: "/:year/:month/:day/:categories/:title/"
 
 ---
-Why are these thoughts still here?
-
-It's been so long since you happened
-
-I'm not even the same anymore
-
-Completely transformed
-
-And you are to praise.
-
-That vacation.
+Will we ever meet again
+Just like the old stories
 
 <hr>
 
@@ -28,6 +19,16 @@ Clean my body from toe to lotus
 I'll remember you fondly
 
 Oh eternal weekend by the sand.
+
+<hr>
+
+A mother to all
+
+A protector of the realm
+
+Why are we always noticed
+
+We are only humans
 
 <hr>
 

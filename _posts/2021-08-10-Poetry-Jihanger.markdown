@@ -191,6 +191,154 @@ To myself and the first voice - 12/12/2019
 <hr>
 
 
+The Moon and the blue-eyed boy
+-------------
+Artemis, Diana, Jaci
+
+The Three Goddesses.
+
+With its original imperfections
+
+An incomparable uniqueness.
+
+The most beautiful.
+
+Innocent when new
+
+Seductive in her crescent
+
+Intense when full
+
+And in its waning a mystery.
+
+Regardless of your opening
+
+A portal to Love.
+
+Yy walls break with your presence
+
+Brick by brick
+
+A glow so intense that my barriers are lost in the mad tangle of my insanity.
+
+Insanity.
+
+An unprecedented acceptance that all my schizophrenia has subsided.
+
+I crazy
+
+She sane
+
+However not balanced.
+
+The moon is not following its cycle
+
+But soon it will be for its entire existence.
+.
+.
+.
+
+blue eyed boy
+
+shine without you even noticing
+
+face my innocence
+
+take me out of comfort
+
+but look at the bottom
+
+where there is soul to be found.
+
+tranquility that my
+
+hard smile that never comes
+
+neutral soul with an inner war
+
+I see
+
+what causes the confrontation
+
+is your facility
+
+and gift
+
+to be deep
+
+to be sorry
+
+to love a lot
+
+to take care a lot.
+
+I see
+
+what you try to hide
+
+if mine or yours is crazy
+
+I can't tell
+
+but I just say that
+
+we are crazy
+
+because in a way
+
+understand each other
+
+we joined little by little
+
+along with all affinities.
+
+You're not crazy
+
+crazy is me,
+
+I even see paradises in beautiful skies
+
+like yours
+
+I even envy what carries so
+
+close to you,
+
+these eyes are pure envy of mine
+
+and i would say
+
+how crazy would it be
+
+to leave my mania
+
+of wanting to smile back
+
+for your giggle.
+
+can be everything you want to be
+
+put faith in everything I do
+
+and take care closely of those who
+
+not even ever cared.
+
+big heart boy,
+
+madness is ours
+
+to think you are too crazy
+
+for having eyes like hallelujah
+
+but stopping talking about such
+
+I'm crazy about always wanting more.
+
+>
+circa 12/2019
+
 <h1>2020</h1>
 
 
@@ -581,3 +729,76 @@ So you can rest in peace.
 
 >
 23/07/2021
+
+
+<hr>
+
+Hope
+-------------
+I always believed I'd reset my brain
+
+And it became a reality.
+
+It seems like it's true that
+
+Hope is the key.
+
+Hope in the future
+
+Of ourselves
+
+Of our families
+
+Of our community
+
+Of our world
+
+Of our universe.
+
+Keep the flame lit
+
+Wonderful things can and will happen.
+
+>
+08/2021
+
+<hr>
+
+Serenity
+-------------
+The first time I saw you
+
+I was amazed
+
+Someone like me
+
+In this institution of madmen.
+
+We met and I took you to eat
+
+You loved the food of my land
+
+You could have eaten eight if you were hungry.
+
+I don't know if it's my fault you lost interest
+
+My carnal desires were defeated by the person before you
+
+I wonder if I became uninteresting
+
+I, who before becoming an adult, was always desired
+
+Today I don't care about that anymore.
+
+Hurt me?
+
+Yes, but it is part of the whole
+
+Today I don't care much about it anymore
+
+But know you have your place in my heart.
+
+The woman who appears in my dreams always takes your form form.
+
+>
+31/08/2021

@@ -91,9 +91,6 @@ The special TP abilities (Technique Points, which are regenerated when an action
 <hr>
 Sten is a powerful Battle Mage that needs to learn how to treat people better. He doesn't measure his words but is a good person nonetheless. His awakening is something expected and will be shown during the first part of the game, which will consist of four chapters.
 
-Tell me what you think about the game so far on either my email or social media.
-
-Have a good day!
 
 <hr>
 <hr>
@@ -137,6 +134,27 @@ Never leave TP stocked, always use it! TP abilites are powerful and useful for t
 <hr>
 Marcus has proven to be the hardest character for me to design, you can notice that by seeing how small his post is compared to Sten's. Nothing is impossible nonetheless, I'm trying my best to NOT make him into my perfect idealization of what a human being should be, as no one is perfect.
 
-Tell me what you think about the game so far on either my email or social media.
 
-Have a good day!
+
+
+
+Detail, the Android Lost in Time
+-------------
+Every character I write in Project Divinity is based on people I've met, and sometimes, a mix of both that and myself. Detail is the exception. She is the raw aspect of what people think and thought about me, along with the struggles I went through. She is the character I care about the most, and let us agree that Detail is a dope name for an Android. She is the incarnation of my mental struggles, and will portray my delusions.
+
+
+<h1>Detail's Mission</h1>
+<hr>
+Detail has no clue on why she was sent back to the past, she is only following her program: to follow the first person she sees. It turned out to be Sten, and their relationship will unfold results in Artimeshia as a whole. Quiet she stays, unless something needs correction or details added (pun intended). You will notice that, with the unfolding of the story, she gets more talkative and seems to have more emotions, emotions that she is not even sure if are hers - she keeps having flashbacks about her father from the future, before she was sent to the past. A flashback from the future, how does that work?
+
+I don't want to talk much about Detail, it would spoil a lot of the story. She is cored to what will happen in the story.
+
+<h1>Detail's Abilities</h1>
+<hr>
+Detail is an android equipped with what will probably be blasters, for now I'm using pistols as a substitute. She is the damage dealer of the party, and can pack a punch. She is purely based on Techical Points (TP), and has no mana to use. This means you will have to charge her up every battle in order to use her abilites. Detail is equipped with syringes that can debilitate and poison enemies, during the tests they were proven to be pretty useful, and her ultimate ability will deal an absurd amount of damage to three random enemies (or maybe all enemies, still balancing that).
+
+<h1>Tips and Tricks</h1>
+<hr>
+Just yolo on the damage output, and if needed, increase her agility so she can avoid attacks.
+
+That's it for the characters I will talk about in the blog! The next part will talk about the state Artimeshia is in before the storyline!
