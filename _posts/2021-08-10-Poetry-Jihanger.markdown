@@ -215,7 +215,7 @@ Regardless of your opening
 
 A portal to Love.
 
-Yy walls break with your presence
+My walls break with your presence
 
 Brick by brick
 
@@ -234,8 +234,11 @@ However not balanced.
 The moon is not following its cycle
 
 But soon it will be for its entire existence.
+
 .
+
 .
+
 .
 
 blue eyed boy

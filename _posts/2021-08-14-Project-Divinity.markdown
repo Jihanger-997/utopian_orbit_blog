@@ -166,3 +166,15 @@ Detail is an android equipped with what will probably be blasters, for now I'm u
 Just yolo on the damage output, and if needed, increase her agility so she can avoid attacks.
 
 That's it for the characters I will talk about in the blog! The next part will talk about the state Artimeshia is in before the storyline!
+
+<hr>
+
+<!-- Artimeshia
+-------------
+<img src="{{ site.baseurl }}//assets/artimeshia.jpg">
+>
+A sketch of Artimeshia
+
+Artimeshia, in the current time of the story, is a medieval fantasy world. It is one big continent with some small islands, and is currently divided by East and West. The East are where our heroes come from, and the latter where the Order of Paladins have their base. It's a world with mythical creatures and monsters that suddenly appeared at some point in its history. Magic is also present, and only the Elves and randomly born Spellblades can master.
+
+There was a large scale war between the Order and the ancient Elves and Dwarves, that resulted in their extermination. The people of the East and the ancient races used to trade and share their culture with each other. They were good friends. The extermination of the races resulted in the East, the Yarifarian nomads and the Nordic sailors, declaring war on the Order.  -->
