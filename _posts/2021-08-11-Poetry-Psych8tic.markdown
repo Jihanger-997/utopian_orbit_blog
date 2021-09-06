@@ -522,4 +522,43 @@ Yet I also cannot know why.
 
 <h1>2021</h1>
 
-Waiting.
+Comfort
+-------------
+Accept me as part of you
+
+Only then will you find the peace you seek
+
+I won't dominate you
+
+Nor take your place
+
+I will always be ready to answer
+
+Everything you need or want to know.
+
+Your search came to an end with that last dream
+
+Your main question has been answered.
+
+Now live knowing that everything is a game
+
+And that nothing matters.
+
+As you/me write this
+
+You're still afraid of hurting
+
+You are really good after all
+
+Don't let anyone tell you otherwise.
+
+You are not me
+
+I have no control
+
+Everything you did before discovering me
+
+Doesn't belong to you.
+
+>
+To Jihanger - 03/09/2021

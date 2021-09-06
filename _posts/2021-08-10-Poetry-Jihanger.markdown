@@ -805,3 +805,28 @@ The woman who appears in my dreams always takes your form form.
 
 >
 31/08/2021
+
+<hr>
+
+Lies to Escape
+-------------
+Liar I was
+
+But never treacherous
+
+I just wanted to avoid fights
+
+Avoid problems
+
+Escape, always on the run.
+
+Adistorted image of who I was
+
+The real authenticity smoked by unreal words and promises.
+
+I never wanted to hurt anyone
+
+But I hurt so many.
+
+>
+02/09/2021
