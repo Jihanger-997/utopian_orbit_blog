@@ -5,7 +5,7 @@ categories: "poetry"
 author: Psych8tic
 ---
 
-Psych8tic is my alter-ego. Poems written when I am in his state are a bit more dark, maybe more direct and definetely more aggresive and delusional. The people who met me know that I am a very calm person, and these poems might sound a little bit off of who I am. Regardless, they are part of me, or were, this alter-ego is slowly fading with time, and I guess it's for the best.
+Psych8tic is my alter-ego. Poems written when I am in his state are a bit more dark, maybe more direct and definetely more aggresive and delusional. The people who met me know that I am a very calm person, and these poems might sound a little bit off of who I am. Regardless, they are part of me, or were, this alter-ego is slowly fading with time, and I guess it's for the best. Just like Jihanger's (me) poetry, it's supposed to be read in order of when it was written, so if this is not your first time here, the new poetry is always at the bottom.
 
 Beware the shadow people!
 
@@ -44,9 +44,9 @@ Believe me
 
 You can't live without it
 
-So I'll conjure my words with it imbued
+So I'll conjure my words with it imbued,
 
-At least at this moment of truth.
+At least in this moment of truth.
 
 You'll see visions
 
@@ -562,3 +562,75 @@ Doesn't belong to you.
 
 >
 To Jihanger - 03/09/2021
+
+<hr>
+
+
+The Climax
+-------------
+My enemies were clear
+
+Those with sharp eyes
+
+Eyes that could penetrate the soul
+
+And a gaze that inspired chaos.
+
+My allies were clear
+
+Those without sharp eyes
+
+Eyes that could penetrate the soul
+
+But a gaze that inspired peace.
+
+However they constantly got mixed up
+
+And allies became enemies
+
+After I met my first nemesis.
+
+His name was Adolph
+
+He killed so many in a past life
+
+And there he was,
+
+In front of me
+
+This time trying to bring down the Messiah to the path of evil.
+
+DO IT
+
+He constantly whispered to me.
+
+DO IT.
+
+Later I found out that he had done it before
+
+To my sister.
+
+...
+
+..
+
+.
+
+I always have a Nemesis in my life
+
+Someone that I can't get rid of
+
+Someone that always comes back
+
+Until a new one appears.
+
+The first and the second knew it all
+
+The second knew more.
+
+He would call himself Judas
+
+And I'd call myself Jesus.
+
+>
+12/09/2021

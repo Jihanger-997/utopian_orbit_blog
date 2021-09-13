@@ -6,7 +6,7 @@ categories: welcome
 author: Jihanger
 permalink: "/:year/:month/:day/:categories/:title/"
 ---
-<img src="{{ site.baseurl }}//assets/padigima.jpg">
+
 > Jihanger by Padigima
 
 <hr>

@@ -5,7 +5,7 @@ categories: "poetry"
 author: Jihanger
 ---
 
-Below you will find poetry written by me, as myself. Not much more to say.
+Below you will find poetry written by me, as myself. The newest poetry is always at the bottom, it's supposed to show the evolution of my thoughts throughout the years since I started writing.
 
 
 <h1>2019</h1>
@@ -340,7 +340,7 @@ but stopping talking about such
 I'm crazy about always wanting more.
 
 >
-circa 12/2019
+poetry exchange - circa 12/2019
 
 <h1>2020</h1>
 
@@ -791,17 +791,17 @@ I wonder if I became uninteresting
 
 I, who before becoming an adult, was always desired
 
-Today I don't care about that anymore.
+Today I don't care about it anymore.
 
 Hurt me?
 
 Yes, but it is part of the whole
 
-Today I don't care much about it anymore
+Today I don't care about it anymore
 
 But know you have your place in my heart.
 
-The woman who appears in my dreams always takes your form form.
+The woman who appears in my dreams always takes your form.
 
 >
 31/08/2021
@@ -820,7 +820,7 @@ Avoid problems
 
 Escape, always on the run.
 
-Adistorted image of who I was
+A distorted image of who I was
 
 The real authenticity smoked by unreal words and promises.
 
