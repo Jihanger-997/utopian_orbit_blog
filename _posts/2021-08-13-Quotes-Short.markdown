@@ -8,6 +8,7 @@ permalink: "/:year/:month/:day/:categories/:title/"
 
 ---
 Will we ever meet again
+
 Just like the old stories
 
 <hr>
@@ -28,7 +29,7 @@ A protector of the realm
 
 Why are we always noticed
 
-We are only humans
+We are only human
 
 <hr>
 

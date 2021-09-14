@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Posts"
+date:   2021-08-08 22:03:08 +0300
+categories: welcome
+author: Jihanger
+permalink: "/:year/:month/:day/:categories/:title/"
+---
+
+General posts I write will be posted here.
+
+
+14/09/2021 - Present and Expected Future
+-------------
+Hey peeps. Today I'm sharing with you what my current situation is and what I expect to come in the next 10 years. It's the first time I write or even think about this, so bear with the confusion.
+
+I'm currently living in the middle east, managing to get basic needs as everyone here in this country is trying to. I lived my whole life in big cities, and the past two years or so I've been living in the countryside. If I remember correctly, this is where I wanted to be when I was a teenager. I think the rush and lies of the big city are getting through me, they don't appeal to me anymore.
+
+My family and I are trying to escape the country, and we will soon be off to another place. We can't go back to a country where everything is falling a part, in case you're wondering why we don't go back to my homeland. Anyway, I hope I can continue my university here as long as it is online, since I'm almost done with it (computer science second to third year), and I don't want to transfer and lose credits when I register.
+
+I hope I can open a business while I'm outside, and make  a living off of it, while I make games as a side project and maybe touch some people's minds and hearts with them. If the business doesn't work, I will find a developer job to fill in the time. We believe our country will be back at its feet in the future, and we will come back once it does. It's a beautiful country indeed.
+
+Psych8tic is telling me to go and travel the world, but how am I gonna do that if I don't have the money, right? Maybe I'll be able to do it someday.
+
+My dreams are on pause at the moment and we are just trying to get our basic needs, which have become hard to come by in this country. The first goal I have on my "life book" is to become a well known game developer/designer, something I feel deep down will happen in some sort of way that I will not expect. If I'm not mistaken the second one is to be free from nicotine, last time I tried quitting I managed to stay more than twelve hours, a pretty good accomplishment.
+
+My depression alter ego just said "I just wanna die". That guy can go fuck himself (just kidding, he needs care, I know).
+
+It's funny how I treat my temporary depression state with despise while other people's I'd do everything to make them feel better, I need to be less harsh on myself.
