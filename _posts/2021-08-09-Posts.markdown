@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Posts"
-date:   2021-08-08 22:03:08 +0300
-categories: welcome
+date:   2021-08-09 22:03:08 +0300
+categories: blogpost
 author: Jihanger
 permalink: "/:year/:month/:day/:categories/:title/"
 ---
 
-General posts I write will be posted here.
+General posts I write will be posted here. Unlike the poetry sections, the newest posts will be on top.
 
 
 14/09/2021 - Present and Expected Future
@@ -22,7 +22,7 @@ I hope I can open a business while I'm outside, and make  a living off of it, wh
 
 Psych8tic is telling me to go and travel the world, but how am I gonna do that if I don't have the money, right? Maybe I'll be able to do it someday.
 
-My dreams are on pause at the moment and we are just trying to get our basic needs, which have become hard to come by in this country. The first goal I have on my "life book" is to become a well known game developer/designer, something I feel deep down will happen in some sort of way that I will not expect. If I'm not mistaken the second one is to be free from nicotine, last time I tried quitting I managed to stay more than twelve hours, a pretty good accomplishment.
+My dreams are on pause at the moment and we are just trying to get our basic needs, which have become hard to come by in this country. The first goal I have on my "life book" is to become a well known game developer/designer, something I feel deep down will happen in some sort of way that I will not expect. If I'm not mistaken, the second one is to be free from nicotine, last time I tried quitting I managed to stay more than twelve hours, a pretty good accomplishment.
 
 My depression alter ego just said "I just wanna die". That guy can go fuck himself (just kidding, he needs care, I know).
 
