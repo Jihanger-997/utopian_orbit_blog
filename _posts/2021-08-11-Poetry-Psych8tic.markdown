@@ -5,6 +5,12 @@ categories: "poetry"
 author: Psych8tic
 ---
 
+
+<audio controls autostart="true">
+  <source src="{{ site.baseurl }}//assets/psych8ticmusic.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 Psych8tic is my alter-ego. Poems written when I am in his state are a bit more dark, maybe more direct and definetely more aggresive and delusional. The people who met me know that I am a very calm person, and these poems might sound a little bit off of who I am. Regardless, they are part of me, or were, this alter-ego is slowly fading with time, and I guess it's for the best. Just like Jihanger's (me) poetry, it's supposed to be read in order of when it was written, so if this is not your first time here, the new poetry is always at the bottom.
 
 Beware the shadow people!
