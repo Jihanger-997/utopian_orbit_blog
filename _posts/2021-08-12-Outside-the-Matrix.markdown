@@ -234,3 +234,48 @@ You can't hurt me if I don't feed you.
 
 >
 Dream circa 2019 - 01/09/2021
+
+
+
+A Flashback to a Trip/Goodbye
+-------------
+We meet again here
+
+This time in carnal desire
+
+You stop
+
+I ask if there is anything wrong
+
+You neglect like you always did
+
+And hand me a smile.
+
+I ask if you are here too
+
+A simple positive gesture
+
+And everything becomes a tangle of matte paint with shades of beige
+
+Just like your skin color after that day at the beach
+
+.
+
+.
+
+.
+
+This is goodbye.
+
+I need you to leave
+
+Before I start hating you
+
+Just like you hated me.
+
+I wish you luck on your journey
+
+And I hope you don't seek it.
+
+>
+09/2021
