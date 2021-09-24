@@ -640,3 +640,42 @@ And I'd call myself Jesus.
 
 >
 12/09/2021
+
+<hr>
+
+Hate
+-------------
+So much hate
+
+Where is it coming from?
+
+Look deep down
+
+Don't blame others for it
+
+You're always hateful at this time of year.
+
+September,
+
+Where others think about ending it all
+
+You rejoice because you are driven by hate
+
+You only function properly by it.
+
+Hate hate hate
+
+Anger
+
+Your version in the matrix is hateful one
+
+You always forget to love
+
+Until you feel chest pains
+
+And then you write to yourself
+
+As me.
+
+>
+To Jihanger - 22/09/2021

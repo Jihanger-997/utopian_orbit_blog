@@ -176,7 +176,7 @@ We, not I.
 >
 18/07/2021
 
-
+<hr>
 
 Attempts of Deceit
 -------------
@@ -235,7 +235,7 @@ You can't hurt me if I don't feed you.
 >
 Dream circa 2019 - 01/09/2021
 
-
+<hr>
 
 A Flashback to a Trip/Goodbye
 -------------
