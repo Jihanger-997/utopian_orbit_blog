@@ -5,6 +5,13 @@ categories: "poetry"
 author: Jihanger
 ---
 
+<audio controls autostart="true">
+  <source src="{{ site.baseurl }}//assets/jihangermusic.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+>
+Child of Eden OST - Evolution (some remix I can't find the name of)
+
 Below you will find poetry written by me, as myself. The newest poetry is always at the bottom, it's supposed to show the evolution of my thoughts throughout the years since I started writing.
 
 
