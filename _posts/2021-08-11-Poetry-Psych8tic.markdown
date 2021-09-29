@@ -681,3 +681,41 @@ As me.
 
 >
 To Jihanger - 22/09/2021
+
+
+<hr>
+
+Antigen
+-------------
+What I saw
+
+Nobody will take it from me.
+
+I know reality is not unique
+
+And the imposed is not what it appears to be.
+
+I'm tired of this needle
+
+This needle that holds me
+
+To a fake version of who I could be
+
+And who I am not.
+
+What's inside it?
+
+Seems to be a prison to the soul
+
+Holds me against my potential
+
+Potential that is outside the box
+
+Potential that does not feed the masquerade
+
+Potential that can destroy it.
+
+I am free from the needle and those who trap me to it.
+
+>
+29/09/2021
