@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "Moments"
+date:   2021-08-16 22:03:08 +0300
+categories: pictures
+author: Jihanger
+permalink: "/:year/:month/:day/:categories/:title/"
+---
+<img src="{{ site.baseurl }}//assets/alice.jpeg">
+> ^The day I noticed I don't need to escape anymore
+
+
+<img src="{{ site.baseurl }}//assets/assouma.jpeg">
+> ^Deep talks and an empty university
+
+<img src="{{ site.baseurl }}//assets/blockf.jpeg">
+> ^Last group picture with the funniest person that went to another country
+
+<img src="{{ site.baseurl }}//assets/cilya.jpeg">
+> ^Chill day with the family
+
+
+<img src="{{ site.baseurl }}//assets/dad.jpeg">
+> ^Realizing he's a good example to follow
+
+<img src="{{ site.baseurl }}//assets/daniella.jpeg">
+> ^Damn I was hungry.
+
+<img src="{{ site.baseurl }}//assets/fabin.jpeg">
+> ^The beggining of a new life
+
+
+<img src="{{ site.baseurl }}//assets/fadel.jpeg">
+> ^We had some coffee and that necklace was draining the shit out of me
+
+
+<img src="{{ site.baseurl }}//assets/givan.jpeg">
+> ^Had just bought my first harem pants.
+
+
+<img src="{{ site.baseurl }}//assets/jakey.jpeg">
+> ^We hadn't seen each other in a while and when we met up we laughed that both of us had just shaved our heads
+
+
+<img src="{{ site.baseurl }}//assets/jamil.jpeg">
+> ^Beautiful place, I was scared and he was just climbing that ruined castle as if he was walking on grass
+
+
+<img src="{{ site.baseurl }}//assets/jawad.jpeg">
+> ^Random meeting because his friend went to the wrong university branch
+
+
+<img src="{{ site.baseurl }}//assets/ju.jpeg">
+> ^First time I shaved my head after my trip
+
+
+<img src="{{ site.baseurl }}//assets/khoder.jpeg">
+> ^Bro moment
+
+
+<img src="{{ site.baseurl }}//assets/nina.jpeg">
+> ^Goodbye day
+
+
+<img src="{{ site.baseurl }}//assets/peeps1.jpeg">
+> ^Cringiest day of my life, but also the day i proved myself I don't need alcohol to enjoy the moment.
+
+
+<img src="{{ site.baseurl }}//assets/serena2.jpeg">
+> ^Goodbye day
+
+
+<img src="{{ site.baseurl }}//assets/shadi.jpeg">
+> ^He had an exam and I was nearby, great talk
+
+
+<img src="{{ site.baseurl }}//assets/theo.jpeg">
+> ^Goodbye day (this time I was leaving, oldest picture so far)
