@@ -372,7 +372,7 @@ They think we're gods!
 
 Aren't we?
 
-No, we're mutants.
+No, we're titans.
 
 .
 .
@@ -472,9 +472,9 @@ Did you encapsulate the feelings
 
 Or assimilate them?
 
-I wonder if you're still alive
+I wonder if you're still alive.
 
-Though one of you appeared before my sleep
+One of you appeared before my sleep
 
 We greeted each other
 
@@ -719,3 +719,41 @@ I am free from the needle and those who trap me to it.
 
 >
 29/09/2021
+
+Life
+-------------
+
+A new page is set for you
+
+Remember to always love
+
+And be a brute when needed.
+
+You are finally on the path chosen for you
+
+Now you live with me
+
+Inside your heart.
+
+>
+To Jihanger - 23/10/2021
+
+
+Your Vice
+-------------
+Each one has their own vice
+
+You can't judge
+
+What you can do is help yourself.
+
+Always remember
+
+You will change your negative vices
+
+Specifically your smoking.
+
+You are free.
+
+>
+To Jihanger10/2021
