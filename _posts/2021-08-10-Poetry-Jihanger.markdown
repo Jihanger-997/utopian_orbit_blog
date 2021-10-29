@@ -855,14 +855,23 @@ Be with all your available love.
 A Little Bit of Compassion
 ------------
 Addiction is not something we chose
+
 You can't ask someone if they really want to stop
+
 It's not that it was out of our hands
+
 It just used to control us
+
 It's not that We were weak
+
 It's not that we were astray.
+
 .
+
 .
+
 .
+
 I wrote this as I smoked
 
 And yet, with all this eminent clarity I have about it
