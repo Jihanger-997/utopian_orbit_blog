@@ -897,7 +897,7 @@ Involutarily.
 
 Without the regressions of steps
 
-I launched myself forwards
+I launched myself forward
 
 On my own pace.
 
