@@ -738,6 +738,7 @@ Inside your heart.
 >
 To Jihanger - 23/10/2021
 
+<hr>
 
 Your Vice
 -------------
@@ -756,4 +757,4 @@ Specifically your smoking.
 You are free.
 
 >
-To Jihanger10/2021
+To Jihanger - 10/2021

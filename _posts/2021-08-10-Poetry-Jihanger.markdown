@@ -838,6 +838,7 @@ But I hurt so many.
 >
 02/09/2021
 
+<hr>
 
 Personality
 ------------
@@ -851,6 +852,8 @@ Be with all your available love.
 
 >
 10/2021
+
+<hr>
 
 A Little Bit of Compassion
 ------------
@@ -884,3 +887,25 @@ And be thankful for it.
 
 >
 10/2021
+
+
+A Little Bit Too Much of Oxygen
+-------------
+I took the chance
+
+Involutarily.
+
+Without the regressions of steps
+
+I launched myself forwards
+
+On my own pace.
+
+I've learned so much this time
+
+Oxygen is the key
+
+Breathe.
+
+>
+11/2021
