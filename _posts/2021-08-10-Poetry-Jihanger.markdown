@@ -12,7 +12,7 @@ Your browser does not support the audio element.
 >
 Child of Eden OST - Evolution (some remix I can't find the name of)
 
-Below you will find poetry written by me, as myself. The newest poetry is always at the bottom, it's supposed to show the evolution of my thoughts throughout the years since I started writing.
+Below you will find poetry written by me, as myself (my alter ego has another section). The newest poetry is always at the bottom, it's supposed to show the evolution of my thoughts throughout the years since I started writing.
 
 
 <h1>2019</h1>

@@ -14,9 +14,11 @@ All are welcome.
 
 <hr>
 
-<h2>Guest Writers (coming soon)</h2>
+<h2>Guest Writers </h2>
 
 Marilyn Moon;
+
+(coming soon below)
 
 M.;
 
@@ -34,4 +36,4 @@ E-mail: <a href = "mailto: utopian.orbit@gmail.com">utopian.orbit@gmail.com</a>
 
 Twitter: <a href="https://twitter.com/UtopianOrbit">UtopianOrbit</a>
 
-Instagram: <a href="https://www.instagram.com/jihanger.et/">jihanger.et</a>
+Instagram: <a href="https://www.instagram.com/jihadftouny/">@jihadftouny</a>
