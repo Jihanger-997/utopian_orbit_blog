@@ -865,7 +865,7 @@ It's not that it was out of our hands
 
 It just used to control us
 
-It's not that We were weak
+It's not that we were weak
 
 It's not that we were astray.
 
@@ -888,6 +888,7 @@ And be thankful for it.
 >
 10/2021
 
+<hr>
 
 A Little Bit Too Much of Oxygen
 -------------
@@ -909,3 +910,44 @@ Breathe.
 
 >
 11/2021
+
+<hr>
+
+A Light That Shines On Me
+-------------
+There's always a first time
+
+My emotions can't even be transmuted into words
+
+But these feelings and thoughts
+
+Of being present
+
+Of thinking in what is to come
+
+To enable on making it happen
+
+I've never exposed myself so much
+
+With little fear
+
+Without the regrets of the past controlling my mind
+
+With so much passion
+
+When we talk
+
+It's like all the problems around me
+
+Just travel to another plane
+
+And come back with so much compassion
+
+That even my true self is able to shine on those around me
+
+A self that is absurdly happy
+
+With dumb smiles and cheerful songs
+
+>
+05/12/2021
