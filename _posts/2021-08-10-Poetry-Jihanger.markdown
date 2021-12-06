@@ -951,3 +951,37 @@ With dumb smiles and cheerful songs
 
 >
 05/12/2021
+
+
+A Quick Reminder For Myself
+-------------
+I am stronger than what I think I am
+
+I keep forgetting that
+
+Even with all the orders and delusions
+
+I didn't hurt anyone
+
+I didn't hurt myself
+
+I didn't do what I was being told to do.
+
+With all the misunderstandings that I caused
+
+When being faced with darkness
+
+I was stronger than it.
+
+I also have to keep in mind
+
+That what I saw
+
+Most don't come back from it
+
+I have a strong will
+
+And it will stay that way.
+
+>
+From self to self - 06/12/2021
