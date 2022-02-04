@@ -7,6 +7,9 @@ author: Jihanger
 permalink: "/:year/:month/:day/:categories/:title/"
 ---
 
+<img src="{{ site.baseurl }}//assets/nour1.jpg">
+> ^Meeting for the first time someone that became very important to me
+
 <img src="{{ site.baseurl }}//assets/theo.jpeg">
 > ^Goodbye day (this time I was leaving)
 
@@ -23,7 +26,7 @@ permalink: "/:year/:month/:day/:categories/:title/"
 > ^Damn I was hungry.
 
 <img src="{{ site.baseurl }}//assets/fadel.jpeg">
-> ^We had some coffee and that necklace was draining the shit out of me
+> ^We had some coffee and that necklace was draining me a lot
 
 <img src="{{ site.baseurl }}//assets/givan.jpeg">
 > ^Had just bought my first harem pants.

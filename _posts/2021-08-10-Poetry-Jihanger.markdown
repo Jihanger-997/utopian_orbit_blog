@@ -814,3 +814,34 @@ And it will stay that way.
 
 >
 From self to self - 06/12/2021
+
+<hr>
+
+Romantic Love
+-------------
+Love is so many things
+
+Yet so simple
+
+It is simplicity itself
+
+The simplicity that one can experience
+
+That everything the other says you find beautiful
+
+It is also easiness
+
+The easiness to be who you are
+
+The easiness to feel understood
+
+And to understand
+
+Most words that can express simplicity in all its forms can make romantic love easier to be rationalized into a physical form
+
+Yet love is not something for me to understand only with my mind
+
+But also with my heart.
+
+>
+04/02/2022
