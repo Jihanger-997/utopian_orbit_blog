@@ -817,6 +817,8 @@ From self to self - 06/12/2021
 
 <hr>
 
+<h1>2022</h1>
+
 Romantic Love
 -------------
 Love is so many things

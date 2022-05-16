@@ -740,6 +740,8 @@ To Jihanger - 23/10/2021
 
 <hr>
 
+
+
 Your Vice
 -------------
 Each one has their own vice
@@ -758,3 +760,49 @@ You are free.
 
 >
 To Jihanger - 10/2021
+
+<hr>
+
+<h1>2022</h1>
+
+Hold Thyself
+-------------
+The war is still not done
+
+Some battles are being won
+
+Some are already long gone and lost
+
+You must win the battle inside yourself
+
+You already did so much
+
+Already killed your worst addiction
+
+Now all that is left is to live the life you want
+
+And He will provide
+
+So have no fears.
+
+Remember when you saw me
+
+The mirrors don't lie
+
+As much as you want to laugh hysterically right now
+
+You can control yourself
+
+Or rather, control me.
+
+You wonder why not everyone that had similar experiences to you
+
+Didn't have the same result
+
+Or maybe they did and you don't know
+
+Maybe it is supposed to be a secret afterall.
+
+Then why are you writing this?
+
+>16/05/2022
